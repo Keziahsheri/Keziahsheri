@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keziahsheri.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning python.
+- 👀 I’m a Data Science Enthusiast
+- 🌱 I’m currently learning Data Science.
 - 📫 How to reach me @keziasherry on Twitter.
 
 <!---
