@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Keziahsheri.
-- 👀 I’m a Data Science Enthusiast
-- 🌱 I’m currently learning Data Science.
-- 📫 How to reach me @keziasherry on Twitter.
+- 👋 Hi, I am Keziah Waruingi.
+- 👀 I am a Data Science Enthusiast
+- 🌱 I’m currently learning Data Analysis.
+- 📫 You can reach me at keziahsheri1@gmail.com or @keziasherry on Twitter.
 
 <!---
 Keziahsheri/Keziahsheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
