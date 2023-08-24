@@ -1,6 +1,5 @@
 - 👋 Hi, I am Keziah Waruingi.
-- 👀 I am a Data Science Enthusiast
-- 🌱 I’m currently learning Data Analysis.
+- 👀 I am a Data Analyst
 - 📫 You can reach me at keziahsheri1@gmail.com or @keziasherry on Twitter.
 
 <!---
